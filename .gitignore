@@ -1,5 +1,4 @@
 /tags
-/tsbench
-/tsbench2
+/ingbench
 *.txt
 *.sql
